@@ -3,8 +3,8 @@ import axios from 'axios';
 export const config = {
   base: 'https://dev4.kqwest.com/sijing',
   api: '/wp-json/wc/v3',
-  key: 'ck_354a2550f86709b993951cc565a3274fb6fcf462',
-  secret: 'cs_63dc11a90afd5523ac8999cdd5b9342518b255ba'
+  key: 'xxx',
+  secret: 'xxx'
 };
 
 const get = (path, body) => {
